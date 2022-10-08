@@ -1,10 +1,15 @@
+## LARAVEL SIMPLE BLOG REST API
+ - Passport Authentication
+ - Posts API
+ - Category API
+
 ## HOW TO USE
 
  - clone repository
  - cd project
  - composer install
- - php artisan key:generate
  - copy or change .env.example to .env 
+ - php artisan key:generate
  - php artisan migrate
  - php artisan passport:install
  - php artisan serve
